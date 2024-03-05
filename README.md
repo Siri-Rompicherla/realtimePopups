@@ -6,3 +6,6 @@ Inside the component, we use the useState hook to manage the real-time data (dat
 We use the useEffect hook to simulate real-time data updates every 5 seconds. The interval function generates random data and updates the data state.
 We render a MapContainer with a tile layer from OpenStreetMap and a Marker with a Popup that displays the real-time data.
 You can replace the random data generation with actual data fetching logic from an API or any other data source.
+
+
+TAKE A LOOK AT SCREENSHOT 
